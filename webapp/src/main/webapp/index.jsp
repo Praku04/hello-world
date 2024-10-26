@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <!-- Design by foolishdeveloper.com -->
@@ -151,26 +151,10 @@ button{
         <button>Log In</button>
         <div class="social">
           <div class="go"><i class="fab fa-google"></i>  Google</div>
-          <div class="fb"><i class="fab fa-facebook"></i>  Facebook</div>
-        </div>
+          <div class="fb"><i class="fab fa-facebook"></i>  Facebook</div>        </div>
     </form>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -214,35 +198,21 @@ button{
 #        <h2>Login</h2>
 #        <form action="login.jsp" method="post">
 #            <label for="username">Username</label>
-#       #     <input type="text" id="username" name="username" required>
-#        #    
-#     ##       <label for="password">Password</label>
-#    #        <input type="password" id="password" name="password" required>
-#   #         
-#  #          <button type="submit">Login</button>
-# ####       </form>
-##   </div>
-##</body>
-##<#/html>
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-##
-##<form action="action_page.p   <h1>New user Register for DevOps Learning</h1>
-##    <p>Please fill in this form to create an account.</p>
-##    <hr>
-##     
-##    <label for="Name"><b>Enter Name</b></label>
+#            <input type="text" id="username" name="username" required>
+#            
+#            <label for="password">Password</label>
+#            <input type="password" id="password" name="password" required>
+#            
+#            <button type="submit">Login</button>
+#        </form>
+#   </div>
+#</body>
+#<#/html>
+#<form action="action_page.p   <h1>New user Register for DevOps Learning</h1>
+#    <p>Please fill in this form to create an account.</p>
+#    <hr>
+#     
+#    <label for="Name"><b>Enter Name</b></label>
 #    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
 #    <br>
 #    
